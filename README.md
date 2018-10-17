@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hello humsns!
+hubot here i like node.js
